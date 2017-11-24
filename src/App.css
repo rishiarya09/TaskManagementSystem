@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #e3e8ef;
+  height: 100px;
+  padding-left: 50px;
+  color: #222
+}
+.rev-header{
+  text-align: center;
+  background-color: #e3e5e8;
+  height: 30px;
+  border-radius: 10px;
+}
+#ch{
+  line-height: 29px;
+}
+.rev-content{
+  padding-top: 10px;
+  text-align: center;
+}
+.nav{
+  padding-top: 40px;
+  padding-left: 800px;
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+}
+.img{padding-top: 25px;
+  height: 70px;
+  
+}
+.img1{
+  align-content: center;
+}
+.App-intro {
+  font-size: large;
+}
